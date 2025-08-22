@@ -1,1 +1,0 @@
-console.console("hello world and what is the name of kartik bhardwaj and what is the use of tjhe full stack devloper and what")
